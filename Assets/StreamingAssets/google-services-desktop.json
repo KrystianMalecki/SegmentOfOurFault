@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980326736641",
+    "firebase_url": "https://segmentofourfault-default-rtdb.europe-west1.firebasedatabase.app/",
+    "project_id": "segmentofourfault",
+    "storage_bucket": "segmentofourfault.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980326736641:android:d24f71183fc158e6cef100",
+        "android_client_info": {
+          "package_name": "com.test.segment.of.our.fault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980326736641-hfkno1afu7ajdfivpu8v30gn8jdre3nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLFplm73BiJ6IGAW0_euHmwUDp1Enx10U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980326736641-hfkno1afu7ajdfivpu8v30gn8jdre3nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
